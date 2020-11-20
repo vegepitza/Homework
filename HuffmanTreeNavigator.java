@@ -1,3 +1,6 @@
+/**
+ * Author: Ravi Varadarajan
+ */
 public class HuffmanTreeNavigator implements BinTreeNavigator<Double,Character> {
 
     private int tabs = 0;
